@@ -21,7 +21,7 @@ $(document).ready(function(){
         }
     }});
     
-    $.getJSON("data/projects/site_data.json", function(jd){
+    $.getJSON("data/" + pagefolder + "/site_data.json", function(jd){
         loadNavbarFromJSON(jd);
         loadBannerFromJSON(jd);
         loadBannerImageFromJSON(jd, page);
