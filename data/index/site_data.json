@@ -40,109 +40,28 @@
             "content": "Biography"
         },
         {
-            "type": "paragraph",
-            "id": "4",
-            "content": "This is a paragraph."
-        },
-        {
-            "type": "list",
-            "id": "5",
-            "content": [
-                "List item",
-                "List item",
-                "List item"
-            ]
-        },
-        {
             "type": "image",
-            "id": "6",
-            "src": "images/index/ArchesUtah.jpg",
-            "alt": "Arches of Utah",
-            "width": "600",
-            "height": "300",
+            "id": "4",
+            "src": "images/index/profile_pic.jpg",
+            "alt": "Ian Suo",
+            "width": "",
+            "height": "",
             "float": "left"
         },
         {
             "type": "paragraph",
-            "id": "7",
-            "content": "Go home. This is a paragraph. Go home. This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph."
+            "id": "5",
+            "content": "My name is Ian Suo. I am a veteran and came back to Stony Brook University starting this semester. My major is Computer Science with a minor in Technical Systems Management. With this degree, I plan on coding and maintaining system infrastructures, be it financial systems, distributed systems, or embedded systems, if it runs a machine, I want to touch it. But I have to start somewhere, so I'm in the process of applying for the part-time position of Technical Student Lead at DoIT next semester. If I get the job, I get to maintain and reimage operating systems used by researchers on campus and assist them with various projects involved with Arduino. This will be an interesting job."
         },
         {
-            "type": "slideshow",
-            "title":"Test Slide Show Title",
-            "id":"0",
-            "slides":[
-                {
-                    "image_file_name":"BryceCanyonUtah.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Grand Canyon"
-                },
-
-                {
-                    "image_file_name":"OregonTrailNebraska.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Trails"
-                },
-                {
-                    "image_file_name":"SaltUtah.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Utah"
-                },
-                {
-                    "image_file_name":"CarhengeNebraska.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Henge"
-                },
-                {
-                    "image_file_name":"GrosMorneNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Newfoundland"
-                },
-                {
-                    "image_file_name":"BadlandsSouthDakota.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"South Dakota"
-                },
-                {
-                    "image_file_name":"CapeSpearNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"cape"
-                },
-                {
-                    "image_file_name":"SignalHillNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Signal Hill"
-                }
-            ]
-        },
+            "type": "paragraph",
+            "id": "6",
+            "content": "My class schedule next semester is going to be: CSE 220, AMS 310, CHE 132, and EST 325. In CSE 220 I will be learning about operating system fundamentals, AMS 310 is probability theory, CHE 132 is general chemistry, and EST 325 is technology at workplace."
+        }
         {
-            "type": "slideshow",
-            "title": "Test Slide",
-            "id": "1",
-            "slides": [
-                {
-                    "image_file_name":"BadlandsSouthDakota.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test1"
-                },
-                {
-                    "image_file_name":"GrosMorneNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test2"
-                },
-                {
-                    "image_file_name":"SaltUtah.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test3"
-                }
-            ]
-        },
-        {
-            "type": "video",
-            "src": "videos/video1.mp4",
-            "video_type": "video/mp4",
-            "width": "",
-            "height": "400"
+            "type": "paragraph",
+            "id", "7",
+            "content": "While I was in the military, I was an F-18 mechanic. I did one deployment to Japan, soon after that, I joined the F-35B project and had the opportunity to work with some very motivated leaders to test and maintain the aircrafts in the first F-35B squadron in the Marine Corps. I've always liked software. When I realized a lot of the mechanical aircraft controls were phased out and replaced by softwares, I decided it's a good time to go back to school and pursue my passion to program these brains that is capable to command all sorts of machinery."
         }
     ]
 }
