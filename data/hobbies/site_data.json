@@ -14,135 +14,35 @@
   "banner": "Welcome to %name%'s E-Portfolio",
   
   "footer": "Contact info - Email: <a href='ysuo85@gmail.com'>ysuo85@gmail.com</a><a href='https://www.facebook.com/yi.suo' target='_blank'><img src='http://www.niftybuttons.com/modern/facebook.png' alt='Facebook' border='0' style='margin:1px; width: 20px; height: 20px;'></a><a href='https://www.linkedin.com/in/yi-suo-16a82a77' target='_blank'><img src='http://www.niftybuttons.com/modern/linkedin.png' alt='Linked In' border='0' style='margin:1px; width: 20px; height: 20px;'></a><a href='https://twitter.com/suo85' target='_blank'><img src='http://www.niftybuttons.com/modern/tumblr.png' alt='Twitter' border='0' style='margin:1px; width: 20px; height: 20px;'></a>",
-  
-  "hyper_links": [
-      {
-          "component_id": "7",
-          "links": [
-            {
-                "starting_index": 0,
-                "ending_index": 7,
-                "url": "index.html"
-            },
-            {
-                "starting_index": 30,
-                "ending_index": 36,
-                "url": "index.html"
-            }
-          ]
-      }
-  ],
     
   "components": [
         {
             "type": "header",
-            "id": "3",
-            "content": "This is a header."
+            "id": "1",
+            "content": "Hobbies"
         },
         {
             "type": "paragraph",
-            "id": "4",
-            "content": "This is a paragraph."
+            "id": "2",
+            "content": "Once a Marine, always a Marine. I love moving around. Some people ask why I picked a sedatory career like computer science. Well, to be quite frank, I like going outside for fun. If it is for work, then I'd rather stay inside so when I get off work and go outside, it becomes even more fun! If you don't get it, it's okay. Anyway, these are some of my hobbies."
         },
         {
             "type": "list",
-            "id": "5",
+            "id": "3",
             "content": [
-                "List item",
-                "List item",
-                "List item"
+                "<h3>Hiking</h3> <p>This is my favorite hobby. The longest hike I've done was Havasu Falls near the Grand Canyon. It was a 3 hour hike of about 12 miles. We camped there at night and then hiked back up the mountain. Overall it was a good experience, I learned not to jump into the bottom of a fall because air bubbles caused by the splash of water creates a vaccuum and you'll sink straight down. Second longest hike I've done was to this mountainous region around Yuma, Arizona. Unlike Havasu Falls, this wasn't just a straight hike with a well defined path, so I made sure I had a GPS, a map, and a compass when I went. I'm glad I did because it was open desert and apparently there were mountain lions in that region. Luckily I didn't run into any.</p>",
+                "<h3>Running</h3> <p>Now that I'm back in school, it is just more convenient for me to run around campus than hiking in the wilderness. The bike lanes through the woods are my favorite routes because nobody ever rides through them and if you run there at night, a lot of wild animals come out, especially deer.</p>",
+                "<h3>Arduino</h3> <p>Right now I'm beginning to get into Arduino since if I get hired, my job next semester will require some basic knowledge of it. That I love hardware hacking. You will probably find me in the Innovation Lab on Tuesdays and Thursdays hacking the board.</p>",
+                "<h3>Creative Writing</h3> <p>I took CWL 202, an arts requirement class this semester that teaches you how to write poems, screen plays, and short stories. It was a very rewarding experience. Being the offspring of two generations of writers, perhaps one day I can make this hobby into a career. Perhaps after I retire and just want to sit down and write about things? My favorite writings are short stories, they are simple and on point. My least favorite is poetry, although they use a lot of flowery language and inuendos and great for discrete lovers, I find them very confusing and cryptic. I am starting to go to a lot of public readings hosted by writers. So far I've learned about the importance of revision and taking risks in writing. Below are some of the better writings I've done.</p>"
             ]
         },
         {
-            "type": "image",
-            "id": "6",
-            "src": "images/index/ArchesUtah.jpg",
-            "alt": "Arches of Utah",
-            "width": "600",
-            "height": "300",
-            "float": "left"
-        },
-        {
-            "type": "paragraph",
-            "id": "7",
-            "content": "Go home. This is a paragraph. Go home. This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph."
-        },
-        {
-            "type": "slideshow",
-            "title":"Test Slide Show Title",
-            "id":"0",
-            "slides":[
-                {
-                    "image_file_name":"BryceCanyonUtah.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Grand Canyon"
-                },
-
-                {
-                    "image_file_name":"OregonTrailNebraska.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Trails"
-                },
-                {
-                    "image_file_name":"SaltUtah.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Utah"
-                },
-                {
-                    "image_file_name":"CarhengeNebraska.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Henge"
-                },
-                {
-                    "image_file_name":"GrosMorneNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Newfoundland"
-                },
-                {
-                    "image_file_name":"BadlandsSouthDakota.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"South Dakota"
-                },
-                {
-                    "image_file_name":"CapeSpearNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"cape"
-                },
-                {
-                    "image_file_name":"SignalHillNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Signal Hill"
-                }
+            "type": "list",
+            "id": "4",
+            "content": [
+                "<a href='docs/deer_island'>Deer Island</a> - A short story about looking at life with a different view.",
+                "<a href='docs/roommate'>My Roommate</a> - A short story about marriage."
             ]
-        },
-        {
-            "type": "slideshow",
-            "title": "Test Slide",
-            "id": "1",
-            "slides": [
-                {
-                    "image_file_name":"BadlandsSouthDakota.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test1"
-                },
-                {
-                    "image_file_name":"GrosMorneNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test2"
-                },
-                {
-                    "image_file_name":"SaltUtah.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test3"
-                }
-            ]
-        },
-        {
-            "type": "video",
-            "src": "videos/video1.mp4",
-            "video_type": "video/mp4",
-            "width": "",
-            "height": "400"
         }
     ]
 }
