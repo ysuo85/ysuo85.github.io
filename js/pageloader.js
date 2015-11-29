@@ -8,8 +8,8 @@ $(document).ready(function(){
     var path = window.location.pathname;
     var page = path.split('/').pop();
     var pagefolder = page.replace(".html","");
-    var CSS_LAYOUT = "/layout.css";
-    var CSS_COLORS_FONTS = "/colors_fonts.css";
+    var CSS_LAYOUT = "layout.css";
+    var CSS_COLORS_FONTS = "colors_fonts.css";
     loadCSS("css/" + pagefolder + CSS_LAYOUT);
     loadCSS("css/" + pagefolder + CSS_COLORS_FONTS);        
     $.ajaxSetup({beforeSend: function(xhr){
