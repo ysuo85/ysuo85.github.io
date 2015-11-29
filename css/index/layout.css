@@ -1,0 +1,130 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 7, 2015, 2:33:30 PM
+    Author     : Yi
+*/
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#navbar {
+    display: inline-block;
+    margin-left: 40px;
+    right: 40%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#top_container {
+    width: 100%;
+    height: 45px;
+    margin: auto;
+}
+
+#banner {
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+
+#banner_img {
+    float: right;
+    margin-right: 10px;
+}
+
+#content {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 0px;
+    position:  relative;
+}
+
+#content .left {
+    float: left;
+}
+
+#content .right {
+    float: right;
+}
+
+#content img {
+    margin: 20px;
+}
+
+#wrapper {
+    width: 100%;
+    min-height: 100%;
+    position: relative;
+}
+
+#footer {
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+#banner h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 50px;
+}
+
+.component.paragraph {
+    margin: 20px;
+}
+
+#content h3.slideshow.title {
+    text-align: center;
+    margin: 0px;
+}
+
+.slideshow.wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+.slideshow.image {
+    display: inline-block;
+    height: 400px;
+}
+
+#content h4.slideshow.caption {
+    text-align: center;
+    margin: 5px;
+}
+
+.slideshow.buttons {
+    text-align: center;
+}
+
+#content img.prev {
+    vertical-align: top;
+    margin: 0px;
+}
+
+#content img.next {
+    vertical-align: top;
+    margin: 0px;
+}
+
+.toggle {
+    display: inline-block;
+}
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+}
