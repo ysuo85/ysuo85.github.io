@@ -1,8 +1,6 @@
 {
   "navbar_links": {
     "Welcome": "index.html",
-    "About": "about.html",
-    "Resume": "resume.html",
     "Projects": "projects.html",
     "Hobbies": "hobbies.html"
   },
@@ -15,7 +13,7 @@
   
   "banner": "Welcome to %name%'s E-Portfolio",
   
-  "footer": "This is a footer",
+  "footer": "Contact info - Email: <a href='ysuo85@gmail.com'>ysuo85@gmail.com</a>",
   
   "hyper_links": [
       {

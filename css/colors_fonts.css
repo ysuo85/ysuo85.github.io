@@ -38,7 +38,8 @@ html, body {
 
 #footer.colors_fonts {
     font-family: 'Vollkorn', serif;    
-    color: #ffff00;
+    color: #ffffff;
+    background-color: #000000;
 }
 
 .component.header {

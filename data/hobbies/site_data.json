@@ -17,12 +17,6 @@
   
   "footer": "This is a footer",
   
-  "banner_image": {
-      "src": "images/hobbies/basketballhoop.png",
-      "width": "248",
-      "height": "226"
-  },
-  
   "hyper_links": [
       {
           "component_id": "7",
