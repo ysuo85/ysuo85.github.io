@@ -10,8 +10,8 @@ $(document).ready(function(){
     var pagefolder = page.replace(".html","");
     var CSS_LAYOUT = "layout.css";
     var CSS_COLORS_FONTS = "colors_fonts.css";
-    loadCSS("css/" + pagefolder + CSS_LAYOUT);
-    loadCSS("css/" + pagefolder + CSS_COLORS_FONTS);        
+    loadCSS("css/" + CSS_LAYOUT);
+    loadCSS("css/" + CSS_COLORS_FONTS);        
     $.ajaxSetup({beforeSend: function(xhr){
         if (xhr.overrideMimeType){
             xhr.overrideMimeType("application/json");
