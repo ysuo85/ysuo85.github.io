@@ -7,6 +7,9 @@
 $(document).ready(function(){
     var path = window.location.pathname;
     var page = path.split('/').pop();
+    if(page === ""){
+        page = "index.html";
+    }
     var pagefolder = page.replace(".html","");
     var CSS_LAYOUT = "layout.css";
     var CSS_COLORS_FONTS = "colors_fonts.css";
@@ -16,8 +19,7 @@ $(document).ready(function(){
         if (xhr.overrideMimeType){
             xhr.overrideMimeType("application/json");
         }
-    }
-    });
+    }});
     
     $.getJSON("data/projects/site_data.json", function(jd){
         loadNavbarFromJSON(jd);
