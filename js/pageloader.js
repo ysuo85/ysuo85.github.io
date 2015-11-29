@@ -19,7 +19,7 @@ $(document).ready(function(){
     }
     });
     
-    $.getJSON("data/" + "site_data.json", function(jd){
+    $.getJSON("data/site_data.json", function(jd){
         loadNavbarFromJSON(jd);
         loadBannerFromJSON(jd);
         loadBannerImageFromJSON(jd, page);
