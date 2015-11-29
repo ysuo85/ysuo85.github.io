@@ -1,8 +1,6 @@
 {
   "navbar_links": {
     "Welcome": "index.html",
-    "About": "about.html",
-    "Resume": "resume.html",
     "Projects": "projects.html",
     "Hobbies": "hobbies.html"
   },
