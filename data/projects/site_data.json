@@ -15,134 +15,28 @@
   
   "footer": "Contact info - Email: <a href='ysuo85@gmail.com'>ysuo85@gmail.com</a><a href='https://www.facebook.com/yi.suo' target='_blank'><img src='http://www.niftybuttons.com/modern/facebook.png' alt='Facebook' border='0' style='margin:1px; width: 20px; height: 20px;'></a><a href='https://www.linkedin.com/in/yi-suo-16a82a77' target='_blank'><img src='http://www.niftybuttons.com/modern/linkedin.png' alt='Linked In' border='0' style='margin:1px; width: 20px; height: 20px;'></a><a href='https://twitter.com/suo85' target='_blank'><img src='http://www.niftybuttons.com/modern/tumblr.png' alt='Twitter' border='0' style='margin:1px; width: 20px; height: 20px;'></a>",
 
-  "hyper_links": [
-      {
-          "component_id": "7",
-          "links": [
-            {
-                "starting_index": 0,
-                "ending_index": 7,
-                "url": "index.html"
-            },
-            {
-                "starting_index": 30,
-                "ending_index": 36,
-                "url": "index.html"
-            }
-          ]
-      }
-  ],
-  
   "components": [
         {
             "type": "header",
-            "id": "3",
-            "content": "This is a header."
+            "id": "1",
+            "content": "Projects"
         },
         {
             "type": "paragraph",
-            "id": "4",
-            "content": "This is a paragraph."
+            "id": "2",
+            "content": "The following is a list of projects I've done for my CSE 300 class and a web project I'm currently working on for a non-profit organization."
         },
         {
             "type": "list",
-            "id": "5",
+            "id": "3",
             "content": [
-                "List item",
-                "List item",
-                "List item"
+                "<a href='docs/resume_with_cover_letter.docx'>Resume with Cover Letter</a>",
+                "<a href='projector_instruction.docx'>User Instruction</a>",
+                "<a href='flight_sim.docx'>Literature Review</a>",
+                "<a href='flight_sim_research_proposal.docx'>Research Proposal</a>",
+                "<a href='press_release.docx'>Press Release</a>",
+                "<a href='http://sweets-gho.herokuapp.com/'>Web project for non-profit"</a>
             ]
-        },
-        {
-            "type": "image",
-            "id": "6",
-            "src": "images/index/ArchesUtah.jpg",
-            "alt": "Arches of Utah",
-            "width": "600",
-            "height": "300",
-            "float": "left"
-        },
-        {
-            "type": "paragraph",
-            "id": "7",
-            "content": "Go home. This is a paragraph. Go home. This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph.This is a paragraph."
-        },
-        {
-            "type": "slideshow",
-            "title":"Test Slide Show Title",
-            "id":"0",
-            "slides":[
-                {
-                    "image_file_name":"BryceCanyonUtah.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Grand Canyon"
-                },
-
-                {
-                    "image_file_name":"OregonTrailNebraska.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Trails"
-                },
-                {
-                    "image_file_name":"SaltUtah.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Utah"
-                },
-                {
-                    "image_file_name":"CarhengeNebraska.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Henge"
-                },
-                {
-                    "image_file_name":"GrosMorneNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Newfoundland"
-                },
-                {
-                    "image_file_name":"BadlandsSouthDakota.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"South Dakota"
-                },
-                {
-                    "image_file_name":"CapeSpearNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"cape"
-                },
-                {
-                    "image_file_name":"SignalHillNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide Show Title/",
-                    "caption":"Signal Hill"
-                }
-            ]
-        },
-        {
-            "type": "slideshow",
-            "title": "Test Slide",
-            "id": "1",
-            "slides": [
-                {
-                    "image_file_name":"BadlandsSouthDakota.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test1"
-                },
-                {
-                    "image_file_name":"GrosMorneNewfoundland.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test2"
-                },
-                {
-                    "image_file_name":"SaltUtah.jpg",
-                    "image_path":"images/index/Test Slide/",
-                    "caption":"test3"
-                }
-            ]
-        },
-        {
-            "type": "video",
-            "src": "videos/video1.mp4",
-            "video_type": "video/mp4",
-            "width": "",
-            "height": "400"
         }
     ]
 }
