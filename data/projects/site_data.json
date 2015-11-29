@@ -24,7 +24,7 @@
         {
             "type": "paragraph",
             "id": "2",
-            "content": "The following is a list of projects I've done for my CSE 300 class and a web project I'm currently working on for a non-profit organization."
+            "content": "The following is a list of projects I've done for my CSE 300 class and a web project I'm currently working on for a non-profit organization. On the resume and cover letter assignment, we found a sample job listing on Handshake and tailored a resume and cover letter specifically for that job. I used the user instructions assignment as an opportunity to revise the user manual for the school's classroom projector systems. This user manual was used in my job application at DoIT and helped me stand out above the other candidates. Coming from aviation, I wanted to explore more into the topics of flight simulation, so I did a literature review on the topic and found out there are many mathematical models using aeronautic variables to simulate a flight, but it doesn't take accute conditions such as spin recovery, turbulance into account. So I proposed a research into a statistics model using the flight data downloaded from real flights to simulate the aircraft's positions and orientations in those situations. For the press release, I wrote about Konami, a Japanese entertainment and video game company, helped a disabled gamer get a customized prosthetics arm similar to the gauntlet of Metal Gear Solid V's protagonist Snake. The web development project is still an on going process for a non-profit organization that helps developmentally disabled learn how to safely enter and exit subway stations in the city. The site is still under construction."
         },
         {
             "type": "list",
@@ -35,7 +35,7 @@
                 "<a href='flight_sim.docx'>Literature Review</a>",
                 "<a href='flight_sim_research_proposal.docx'>Research Proposal</a>",
                 "<a href='press_release.docx'>Press Release</a>",
-                "<a href='http://sweets-gho.herokuapp.com/'>Web project for non-profit</a>"
+                "<a href='http://sweets-gho.herokuapp.com/' target='_blank'>Web project for non-profit</a>"
             ]
         }
     ]
