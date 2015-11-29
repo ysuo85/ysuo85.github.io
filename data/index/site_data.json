@@ -13,7 +13,7 @@
   
   "banner": "Welcome to %name%'s E-Portfolio",
   
-  "footer": 'Contact info - Email: <a href="ysuo85@gmail.com">ysuo85@gmail.com</a>',
+  "footer": "Contact info - Email: <a href='ysuo85@gmail.com'>ysuo85@gmail.com</a>",
   
   "hyper_links": [
       {
